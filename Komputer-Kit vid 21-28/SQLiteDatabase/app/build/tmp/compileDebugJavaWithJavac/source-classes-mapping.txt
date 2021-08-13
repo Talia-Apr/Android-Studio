@@ -1,0 +1,6 @@
+com/smkrevit/sqlitedatabase/BuildConfig.java
+ com.smkrevit.sqlitedatabase.BuildConfig
+com/smkrevit/sqlitedatabase/Database.java
+ com.smkrevit.sqlitedatabase.Database
+com/smkrevit/sqlitedatabase/MainActivity.java
+ com.smkrevit.sqlitedatabase.MainActivity
